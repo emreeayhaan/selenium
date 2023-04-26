@@ -1,0 +1,5 @@
+C:\Users\Acer\source\repos\Selenium\Selenium\obj\Debug\net6.0\BusinesssSelenium.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Selenium\Selenium\obj\Debug\net6.0\BusinesssSelenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Selenium\Selenium\obj\Debug\net6.0\BusinesssSelenium.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Selenium\Selenium\obj\Debug\net6.0\BusinesssSelenium.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Selenium\Selenium\obj\Debug\net6.0\BusinesssSelenium.csproj.CoreCompileInputs.cache

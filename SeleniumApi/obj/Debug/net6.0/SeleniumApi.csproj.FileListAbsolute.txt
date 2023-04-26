@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Selenium\SeleniumApi\obj\Debug\net6.0\SeleniumApi.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Selenium\SeleniumApi\obj\Debug\net6.0\SeleniumApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Selenium\SeleniumApi\obj\Debug\net6.0\SeleniumApi.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Selenium\SeleniumApi\obj\Debug\net6.0\SeleniumApi.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Selenium\SeleniumApi\obj\Debug\net6.0\SeleniumApi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Selenium\SeleniumApi\obj\Debug\net6.0\SeleniumApi.MvcApplicationPartsAssemblyInfo.cache
